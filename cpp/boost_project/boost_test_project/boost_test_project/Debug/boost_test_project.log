@@ -1,0 +1,8 @@
+﻿  AddTwoNumbers.cpp
+C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\boost_test_project\leetcode_source\AddTwoNumbers.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\boost_test_project\leetcode_source\AddTwoNumbers.cpp(147,41): warning C4018: '>': signed/unsigned mismatch
+C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\boost_test_project\leetcode_source\AddTwoNumbers.cpp(161,24): warning C4018: '>': signed/unsigned mismatch
+C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\boost_test_project\leetcode_source\AddTwoNumbers.cpp(215,33): warning C4018: '<': signed/unsigned mismatch
+C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\boost_test_project\leetcode_source\AddTwoNumbers.cpp(385,31): warning C4018: '<': signed/unsigned mismatch
+C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\boost_test_project\leetcode_source\AddTwoNumbers.cpp(282): warning C4715: 'Solution::trap': not all control paths return a value
+  boost_test_project.vcxproj -> C:\My_Documents\D_backup\5G_NR\ZxGitHub\cpp\boost_project\boost_test_project\Debug\boost_test_project.exe

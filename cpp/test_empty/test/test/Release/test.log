@@ -1,0 +1,9 @@
+﻿  functionhandletext.cpp
+  sortmerge.cpp
+  Source.cpp
+  StringTest.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 170 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  test.vcxproj -> C:\My_Documents\D_backup\learning\CPP\visual_studio_test\test_empty\test\Release\test.exe
